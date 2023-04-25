@@ -1,5 +1,10 @@
 # A-Star Project
 
+## Made By:
+- Cavelli Rosario
+- Cerra Michele
+- Colotti Manuel Enrique
+
 ## Introduction
 A* is a widely used pathfinding algorithm for traversing Graphs; it extends Dijkstra's algorithm by introducing the concept of **Heuristic Function** which plays a key role in making more optimal decisions at each step.
 
